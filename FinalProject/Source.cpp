@@ -22,6 +22,9 @@ int main()
 		do
 		{
 			cout << "#-------------------------> welcome to the program <-------------------------#\n\n";
+			cout << " -->if you want to enter as an admin : \n \tuse (mostafa@admin.crc) as user name \n \tuse (mostafa12345) as password " << "\n\n";
+			cout << " -->if you want to enter as a user : \n \t use (mostafa@customer.crc) as user name \n \t use (mostafa123) as password " << "\n\n";
+
 			string use, pass;
 			cout << "#------> Enter Your User Name   :  ";
 			get(use);
