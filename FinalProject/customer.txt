@@ -1,0 +1,6 @@
+farouk#khaled#10000000000000#18#12345#01010778758#farouk@customer.crc#farouk12345
+mostafa#mahmoud#20000000000000#18#23456#01010778759#mostafa@customer.crc#mostafa123
+yasser#mohamed#30000000000000#18#34567#01010778751#yasser@customer.crc#yasser12345
+farag#eleyan#40000000000000#18#45678#01010778754#farag@customer.crc#farag12345
+ahmed#hegazy#50000000000000#18#56789#01010778755#hegazy@customer.crc#hegazy12345
+ahmed#nader#60000000000000#18#54321#01010778756#ahmed@customer.crc#ahmed12345
